@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\bin\Debug\net9.0\PRODUCT.exe
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\bin\Debug\net9.0\PRODUCT.deps.json
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\bin\Debug\net9.0\PRODUCT.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\bin\Debug\net9.0\PRODUCT.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\bin\Debug\net9.0\PRODUCT.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\refint\PRODUCT.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\PRODUCT.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\PRODUCT\obj\Debug\net9.0\ref\PRODUCT.dll
