@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.deps.json
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.dll
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\bin\Debug\net8.0\CommonUtils.pdb
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.dll
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\refint\CommonUtils.dll
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\CommonUtils.pdb
+C:\Users\HP\OneDrive\Desktop\TESTING\CoreRazorApp\CommonUtils\obj\Debug\net8.0\ref\CommonUtils.dll

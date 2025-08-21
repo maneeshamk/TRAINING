@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C765AF78-C1F8-4CB6-BC51-F0FE80F2E17C}|EmailValidation.xUnit\\EmailValidation.xUnit.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demoemailvalidation\\emailvalidation.xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C765AF78-C1F8-4CB6-BC51-F0FE80F2E17C}|EmailValidation.xUnit\\EmailValidation.xUnit.csproj|solutionrelative:emailvalidation.xunit\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E1BBD34-9651-4170-8BE0-3085AAF4282A}|EmailValidation.MSTestProject\\EmailValidation.MSTestProject.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demoemailvalidation\\emailvalidation.mstestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E1BBD34-9651-4170-8BE0-3085AAF4282A}|EmailValidation.MSTestProject\\EmailValidation.MSTestProject.csproj|solutionrelative:emailvalidation.mstestproject\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E826C9-D8F0-471B-BB5A-597E6D2A3DE2}|DemoEmailValidation\\DemoEmailValidation.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demoemailvalidation\\demoemailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E826C9-D8F0-471B-BB5A-597E6D2A3DE2}|DemoEmailValidation\\DemoEmailValidation.csproj|solutionrelative:demoemailvalidation\\emailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4E826C9-D8F0-471B-BB5A-597E6D2A3DE2}|DemoEmailValidation\\DemoEmailValidation.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demoemailvalidation\\demoemailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4E826C9-D8F0-471B-BB5A-597E6D2A3DE2}|DemoEmailValidation\\DemoEmailValidation.csproj|solutionrelative:demoemailvalidation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\EmailValidation.xUnit\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EmailValidation.xUnit\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\EmailValidation.xUnit\\UnitTest1.cs",
+              "RelativeToolTip": "EmailValidation.xUnit\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:56:26.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\EmailValidation.MSTestProject\\Test1.cs",
+              "RelativeDocumentMoniker": "EmailValidation.MSTestProject\\Test1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\EmailValidation.MSTestProject\\Test1.cs",
+              "RelativeToolTip": "EmailValidation.MSTestProject\\Test1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:49:13.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\DemoEmailValidation\\EmailValidator.cs",
+              "RelativeDocumentMoniker": "DemoEmailValidation\\EmailValidator.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\DemoEmailValidation\\EmailValidator.cs",
+              "RelativeToolTip": "DemoEmailValidation\\EmailValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:43:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\DemoEmailValidation\\Program.cs",
+              "RelativeDocumentMoniker": "DemoEmailValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DemoEmailValidation\\DemoEmailValidation\\Program.cs",
+              "RelativeToolTip": "DemoEmailValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T15:37:58.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

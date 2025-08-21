@@ -1,0 +1,8 @@
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\bin\Debug\Demo_Calculator_App.exe.config
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\bin\Debug\Demo_Calculator_App.exe
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\bin\Debug\Demo_Calculator_App.pdb
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.exe
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.pdb
+C:\Users\HP\OneDrive\Desktop\TESTING\Demo_Calculator_App\Demo_Calculator_App\obj\Debug\Demo_Calculator_App.exe.config

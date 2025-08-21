@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DEmo MathLibrary_Testing using NUnit/1.0.0": {
+        "runtime": {
+          "DEmo MathLibrary_Testing using NUnit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DEmo MathLibrary_Testing using NUnit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.exe
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.deps.json
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.dll
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\bin\Debug\net8.0\DemoEmailValidation.pdb
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.dll
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\refint\DemoEmailValidation.dll
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.pdb
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\DemoEmailValidation.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\DemoEmailValidation\obj\Debug\net8.0\ref\DemoEmailValidation.dll

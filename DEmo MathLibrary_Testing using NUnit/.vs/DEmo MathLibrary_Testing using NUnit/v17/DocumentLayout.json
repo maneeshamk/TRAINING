@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48F6D736-1E21-45D2-A36B-BD6BB10FD0DC}|MathLibrary.Tests\\MathLibrary.Tests.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demo mathlibrary_testing using nunit\\mathlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48F6D736-1E21-45D2-A36B-BD6BB10FD0DC}|MathLibrary.Tests\\MathLibrary.Tests.csproj|solutionrelative:mathlibrary.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8626180-1909-4330-82E5-63F8251F7C34}|DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demo mathlibrary_testing using nunit\\demo mathlibrary_testing using nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8626180-1909-4330-82E5-63F8251F7C34}|DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit.csproj|solutionrelative:demo mathlibrary_testing using nunit\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F6D736-1E21-45D2-A36B-BD6BB10FD0DC}|MathLibrary.Tests\\MathLibrary.Tests.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demo mathlibrary_testing using nunit\\mathlibrary.tests\\mathlibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48F6D736-1E21-45D2-A36B-BD6BB10FD0DC}|MathLibrary.Tests\\MathLibrary.Tests.csproj|solutionrelative:mathlibrary.tests\\mathlibrary.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8626180-1909-4330-82E5-63F8251F7C34}|DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit.csproj|c:\\users\\hp\\onedrive\\desktop\\testing\\demo mathlibrary_testing using nunit\\demo mathlibrary_testing using nunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8626180-1909-4330-82E5-63F8251F7C34}|DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit.csproj|solutionrelative:demo mathlibrary_testing using nunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MathLibrary.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\MathLibrary.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "MathLibrary.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T03:05:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit\\Program.cs",
+              "RelativeDocumentMoniker": "DEmo MathLibrary_Testing using NUnit\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit\\Program.cs",
+              "RelativeToolTip": "DEmo MathLibrary_Testing using NUnit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:56:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit\\Calculator.cs",
+              "RelativeDocumentMoniker": "DEmo MathLibrary_Testing using NUnit\\Calculator.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\DEmo MathLibrary_Testing using NUnit\\Calculator.cs",
+              "RelativeToolTip": "DEmo MathLibrary_Testing using NUnit\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T02:59:46.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MathLibrary.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "RelativeDocumentMoniker": "MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Desktop\\TESTING\\DEmo MathLibrary_Testing using NUnit\\MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "RelativeToolTip": "MathLibrary.Tests\\MathLibrary.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-29T03:06:56.052Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

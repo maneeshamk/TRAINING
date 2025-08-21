@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\EmailValidation.xUnit\bin\Debug\net8.0\CoverletSourceRootsMapping_EmailValidation.xUnit
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\EmailValidation.xUnit\obj\Debug\net8.0\EmailValidation.xUnit.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\EmailValidation.xUnit\obj\Debug\net8.0\EmailValidation.xUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\EmailValidation.xUnit\obj\Debug\net8.0\EmailValidation.xUnit.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\EmailValidation.xUnit\obj\Debug\net8.0\EmailValidation.xUnit.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TESTING\DemoEmailValidation\EmailValidation.xUnit\obj\Debug\net8.0\EmailValidation.xUnit.csproj.CoreCompileInputs.cache
