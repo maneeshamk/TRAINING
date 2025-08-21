@@ -1,54 +1,57 @@
 // using System;
 
+// class Student
+// {
+//     public string Name { get; set; }
+//     public int Age { get; set; }
+//     public int[] SubjectMarks { get; set; }
+// }
+
 // class StudentArray
 // {
-
-
 //     static void Main()
 //     {
+//         Console.Write("Enter number of students: ");
+//         int studentCount = Convert.ToInt32(Console.ReadLine());
 
-//         int studentCount = 1;
-//         Student[] students = new Student[studentCount];//Array of student class 
-//         // string[][] studentSubject = new string[noOfStudent][];
+//         Student[] students = new Student[studentCount]; // Array of student class 
+
 //         for (int i = 0; i < studentCount; i++)
 //         {
-//             students[i] = new Student();// With a new keyword object will be created and stored in a memory of a student class 
-//             Console.WriteLine("Enter name of student");
+//             students[i] = new Student(); // Create a new Student object
+
+//             Console.WriteLine($"\nEnter details for Student {i + 1}:");
+
+//             Console.Write("Enter name of student: ");
 //             students[i].Name = Console.ReadLine();
 
-//             Console.WriteLine("Enter Age of student");
+//             Console.Write("Enter Age of student: ");
 //             students[i].Age = Convert.ToInt32(Console.ReadLine());
 
-//             Console.WriteLine("How many subjects you want to store marks");
+//             Console.Write("How many subjects do you want to store marks for? ");
 //             int subjectCount = Convert.ToInt32(Console.ReadLine());
 
 //             students[i].SubjectMarks = new int[subjectCount];
 
 //             for (int j = 0; j < subjectCount; j++)
 //             {
-
-//                 Console.Write("Enter marks for subjects :");
+//                 Console.Write($"Enter marks for subject {j + 1}: ");
 //                 students[i].SubjectMarks[j] = Convert.ToInt32(Console.ReadLine());
-
 //             }
-
-
 //         }
 
-//         Console.WriteLine("Student obj details are given below :");
+//         Console.WriteLine("\nStudent details are given below:");
 
 //         foreach (Student s in students)
 //         {
-//             Console.WriteLine(s.Name);// provided the value using get property
-//             Console.WriteLine(s.Age);
+//             Console.WriteLine($"\nName: {s.Name}");
+//             Console.WriteLine("Age: " + s.Age);
 
+//             Console.WriteLine("Subject Marks:");
 //             foreach (int marks in s.SubjectMarks)
 //             {
-//                 Console.WriteLine("Students Marks are : " + marks);
-//                     }
-
+//                 Console.WriteLine(marks);
+//             }
 //         }
 //     }
-
 // }
-    

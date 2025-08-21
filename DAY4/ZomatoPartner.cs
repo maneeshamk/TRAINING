@@ -1,8 +1,8 @@
-class ZomatoPartner : DeliveryPartner
-{
+// class ZomatoPartner : DeliveryPartner
+// {
 
-    public override void DeliveryOrder()
-    {
-        Console.WriteLine("Delivered in 20 mins");
-    }
-}
+//     public override void DeliveryOrder()
+//     {
+//         Console.WriteLine("Delivered in 20 mins");
+//     }
+// }

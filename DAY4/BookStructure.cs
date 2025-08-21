@@ -2,26 +2,21 @@
 
 // namespace StructExample
 // {
-
-
 //     public struct Book
 //     {
 //         public string Title;
 //         public string Author;
 //         public decimal Price;
 //         public short Year;
-
 //     }
-
 
 //     enum DaysOfWeek
 //     {
 //         Monday, Tuesday, Wednesday
 //     }
-    
-//           enum Status
-//     {
 
+//     enum Status
+//     {
 //         Pending,
 //         Approved,
 //         Rejected
@@ -29,7 +24,6 @@
 
 //     class BookStructure
 //     {
-
 //         static void Main(string[] args)
 //         {
 //             DaysOfWeek t1 = DaysOfWeek.Tuesday;
@@ -41,14 +35,15 @@
 //             myBook.Price = 3456.00M;
 //             myBook.Year = 2020;
 
-//             Console.WriteLine(myBook.Title + myBook.Author + myBook.Price + myBook.Year);
+//             Console.WriteLine(myBook.Title + " " + myBook.Author + " " + myBook.Price + " " + myBook.Year);
+
 //             if (t1 == DaysOfWeek.Monday || t1 == DaysOfWeek.Tuesday)
 //             {
-//                 Console.WriteLine("either it is monday or tuesday");
+//                 Console.WriteLine("either it is Monday or Tuesday");
 //             }
 //             else
 //             {
-//                 Console.WriteLine("either it is monday or tuesday");
+//                 Console.WriteLine("it is not Monday or Tuesday");
 //             }
 
 //             switch (t1)
@@ -65,19 +60,12 @@
 //                 default:
 //                     Console.WriteLine("It's Weekend");
 //                     break;
-                 
-//                 Status s = Status.Pending;
-//                 string statusstring = s.ToString();
-
-
-
-
 //             }
 
+//             // Enum usage
+//             Status s = Status.Pending;
+//             string statusString = s.ToString();
+//             Console.WriteLine("Status: " + statusString);
 //         }
 //     }
 // }
-
-
-
-

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\day5\\DAY5.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\DAY5\\DAY5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\day5\\DAY5.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\DAY5\\DAY5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\day5\\DAY5.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\DAY5\\DAY5.csproj",
         "projectName": "DAY5",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\day5\\DAY5.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\DAY5\\DAY5.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\day5\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Desktop\\wipro training\\DAY5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

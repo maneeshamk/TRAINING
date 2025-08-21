@@ -1,14 +1,14 @@
-class DeliveryApp
-{
+// class DeliveryApp
+// {
 
 
-    static void Main()
-    {
-        DeliveryPlatform partner = new ZomatoPartner();
-        partner.PartnerName = "Zomato";
+//     static void Main()
+//     {
+//         DeliveryPlatform partner = new ZomatoPartner();
+//         partner.PartnerName = "Zomato";
 
 
-        partner.TrackOrder();
-        partner.DeliveryOrder();
-    }
-}
+//         partner.TrackOrder();
+//         partner.DeliveryOrder();
+//     }
+// }
