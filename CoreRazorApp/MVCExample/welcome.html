@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>my page</title>
+
+    <!-- local Bootstrap file -->
+    <link href="wwwroot/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            position: relative;
+            padding: 40px;
+            color: teal;
+            font-weight: 900;
+        }
+
+        .background-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: auto;
+            opacity: 0.5;
+            z-index: -1;
+        }
+
+        .text-content {
+            position: relative;
+            z-index: 1;
+            white-space: pre-wrap; 
+        }
+
+        span.red {
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="wwwroot/flower/flower.jpeg" alt="Flower" class="background-image" />
+
+        <pre class="text-content">
+Flowers, also known as <span class="red">blooms and blossoms</span>, are the reproductive structures of flowering plants. 
+Typically, they are structured in four circular levels around the end of a stalk. These include: sepals, which are modified leaves
+that support the flower; petals, often designed to attract pollinators; male parts, where pollen is presented; and female parts, 
+where pollen is received and its movement is facilitated to the egg. When flowers are arranged in a group, they are known 
+collectively as an inflorescence.     
+        </pre>
+    </div>
+</body>
+</html>
