@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      background-color: #f8f9fa;
+    }
+
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
+
+    .full-container {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+      width: 100%;
+      height: 100%;
+      max-width: 800px;
+      padding: 30px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .tab-content {
+      flex-grow: 1;
+      overflow-y: auto;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 10px;
+      font-size: 18px;
+    }
+
+    button {
+      margin-left: 10px;
+    }
+
+    @media (max-width: 576px) {
+      .full-container {
+        padding: 20px 15px;
+      }
+    }
+  </style>
+  <script>
+    var cartItems = [
+      { id: 1, name: "Shoes", fav: true },
+      { id: 2, name: "Bag", fav: false },
+      { id: 3, name: "Watch", fav: true }
+    ];
+
+    function listCartItems() {
+      var itemList = document.getElementById("cart-tab-pane");
+      itemList.innerHTML = "<ul>";
+      cartItems.forEach(function(item) {
+        itemList.innerHTML += "<li>" +
+          item.name +
+          " <span style='cursor:pointer;font-size:20px;color:gold;' onclick='toggleFav(" + item.id + ")'>" +
+          (item.fav ? "★" : "☆") +
+          "</span>" +
+          " <button class='btn btn-sm btn-outline-danger' onclick='deleteItem(" + item.id + ")'>X</button></li>";
+      });
+      itemList.innerHTML += "</ul>";
+    }
+
+    function toggleFav(id) {
+      cartItems.forEach(item => {
+        if (item.id === id) {
+          item.fav = !item.fav;
+        }
+      });
+      listCartItems();
+    }
+
+    function addItem() {
+      var newItemInput = document.getElementById("newItem");
+      var newItemName = newItemInput.value.trim();
+      if (newItemName) {
+        var newId = cartItems.length > 0 ? Math.max(...cartItems.map(item => item.id)) + 1 : 1;
+        cartItems.push({ id: newId, name: newItemName, fav: false });
+        newItemInput.value = "";
+        listCartItems();
+      } else {
+        alert("Please enter a valid item name.");
+      }
+    }
+
+    function deleteItem(id) {
+      cartItems = cartItems.filter(function(item) {
+        return item.id !== id;
+      });
+      listCartItems();
+    }
+
+    function listFavourites() {
+      var favList = document.getElementById("favourite-tab-pane");
+      favList.innerHTML = "<ul>";
+      cartItems.forEach(function(item) {
+        if (item.fav) {
+          favList.innerHTML += "<li>" + item.name + "</li>";
+        }
+      });
+      favList.innerHTML += "</ul>";
+    }
+  </script>
+</head>
+
+<body onload="listCartItems()">
+  <div class="container full-container">
+    <h3 class="text-center mb-4">🛒 My Shopping Cart</h3>
+
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+      <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="cart-tab" data-bs-toggle="tab" data-bs-target="#cart-tab-pane" type="button" role="tab">Shopping Cart</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="add-tab" data-bs-toggle="tab" data-bs-target="#add-tab-pane" type="button" role="tab">Add New Item</button>
+      </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="favourite-tab" data-bs-toggle="tab" data-bs-target="#favourite-tab-pane" type="button" role="tab" onclick="listFavourites()">My Favourites</button>
+      </li>
+    </ul>
+
+    <div class="tab-content mt-3" id="myTabContent">
+      <div class="tab-pane fade show active" id="cart-tab-pane" role="tabpanel">Loading cart...</div>
+      <div class="tab-pane fade" id="add-tab-pane" role="tabpanel">
+        <input type="text" id="newItem" placeholder="Enter new item" class="form-control mb-2">
+        <button onclick="addItem()" class="btn btn-primary w-100">Add Item</button>
+      </div>
+      <div class="tab-pane fade" id="favourite-tab-pane" role="tabpanel">Favourites will appear here.</div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
