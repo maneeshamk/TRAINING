@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pipes/mypipe.pipe.ts", "src/app/pipes/mypipe.pipe.spec.ts"],
+  "sourcesContent": ["import { Pipe, PipeTransform } from '@angular/core';\n\n@Pipe({\n  name: 'mypipe',\n  standalone: false\n})\nexport class MypipePipe implements PipeTransform {\n\n  transform(value: unknown, ...args: unknown[]): unknown {\n    return null;\n  }\n\n}\n", "import { MypipePipe } from './mypipe.pipe';\n\ndescribe('MypipePipe', () => {\n  it('create an instance', () => {\n    const pipe = new MypipePipe();\n    expect(pipe).toBeTruthy();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;AAAA;AAMO,IAAM,aAAN,MAAMA,YAAU;EAErB,UAAU,UAAmB,MAAe;AAC1C,WAAO;EACT;;AAJW,aAAU,WAAA;EAJtB,KAAK;IACJ,MAAM;IACN,YAAY;GACb;GACY,UAAU;;;ACJvB,SAAS,cAAc,MAAK;AAC1B,KAAG,sBAAsB,MAAK;AAC5B,UAAM,OAAO,IAAI,WAAU;AAC3B,WAAO,IAAI,EAAE,WAAU;EACzB,CAAC;AACH,CAAC;",
+  "names": ["MypipePipe"]
+}

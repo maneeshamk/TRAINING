@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/component/favourite/favourite.component.css"],
+  "sourcesContent": ["p{\n    background-color: blue !important;\n}"],
+  "mappings": ";AAAA;AACI,oBAAkB;AACtB;",
+  "names": []
+}

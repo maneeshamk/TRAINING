@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/pipes/reversepipe.pipe.ts", "src/app/pipes/reversepipe.pipe.spec.ts"],
+  "sourcesContent": ["import { Pipe, PipeTransform } from '@angular/core';\n\n@Pipe({\n  name: 'reversepipe',\n  standalone: false\n})\nexport class ReversepipePipe implements PipeTransform {\n\n  transform(value: string): string {\n    return value.split('').reverse().join('');\n  }\n\n}\n", "import { ReversepipePipe } from './reversepipe.pipe';\n\ndescribe('ReversepipePipe', () => {\n  it('create an instance', () => {\n    const pipe = new ReversepipePipe();\n    expect(pipe).toBeTruthy();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;AAAA;AAMO,IAAM,kBAAN,MAAMA,iBAAe;EAE1B,UAAU,OAAa;AACrB,WAAO,MAAM,MAAM,EAAE,EAAE,QAAO,EAAG,KAAK,EAAE;EAC1C;;AAJW,kBAAe,WAAA;EAJ3B,KAAK;IACJ,MAAM;IACN,YAAY;GACb;GACY,eAAe;;;ACJ5B,SAAS,mBAAmB,MAAK;AAC/B,KAAG,sBAAsB,MAAK;AAC5B,UAAM,OAAO,IAAI,gBAAe;AAChC,WAAO,IAAI,EAAE,WAAU;EACzB,CAAC;AACH,CAAC;",
+  "names": ["ReversepipePipe"]
+}

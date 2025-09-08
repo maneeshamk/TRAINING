@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/component/register/register.component.css"],
+  "sourcesContent": ["p {\n    background-color: brown;\n}"],
+  "mappings": ";AAAA;AACI,oBAAkB;AACtB;",
+  "names": []
+}
