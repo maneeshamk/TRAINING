@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\bin\Debug\net9.0\typeconversion.exe
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\bin\Debug\net9.0\typeconversion.deps.json
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\bin\Debug\net9.0\typeconversion.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\bin\Debug\net9.0\typeconversion.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\bin\Debug\net9.0\typeconversion.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\refint\typeconversion.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\typeconversion.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\typeconversion\obj\Debug\net9.0\ref\typeconversion.dll

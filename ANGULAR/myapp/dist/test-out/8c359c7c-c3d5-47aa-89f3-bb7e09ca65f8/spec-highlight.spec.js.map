@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/directives/highlight.ts", "src/app/directives/highlight.spec.ts"],
+  "sourcesContent": ["import { Directive } from '@angular/core';\n\n@Directive({\n  selector: '[appHighlight]',\n  standalone: false\n})\nexport class Highlight {\n\n  constructor() { }\n\n}\n", "import { Highlight } from './highlight';\n\ndescribe('Highlight', () => {\n  it('should create an instance', () => {\n    const directive = new Highlight();\n    expect(directive).toBeTruthy();\n  });\n});\n"],
+  "mappings": ";;;;;;;;;;AAAA;AAMO,IAAM,YAAN,MAAMA,WAAS;EAEpB,cAAA;EAAgB;;;AAFL,YAAS,WAAA;EAJrB,UAAU;IACT,UAAU;IACV,YAAY;GACb;GACY,SAAS;;;ACJtB,SAAS,aAAa,MAAK;AACzB,KAAG,6BAA6B,MAAK;AACnC,UAAM,YAAY,IAAI,UAAS;AAC/B,WAAO,SAAS,EAAE,WAAU;EAC9B,CAAC;AACH,CAAC;",
+  "names": ["Highlight"]
+}

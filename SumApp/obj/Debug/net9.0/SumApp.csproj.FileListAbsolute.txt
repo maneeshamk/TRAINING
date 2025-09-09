@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\bin\Debug\net9.0\SumApp.exe
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\bin\Debug\net9.0\SumApp.deps.json
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\bin\Debug\net9.0\SumApp.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\bin\Debug\net9.0\SumApp.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\bin\Debug\net9.0\SumApp.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\refint\SumApp.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\SumApp.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\SumApp\obj\Debug\net9.0\ref\SumApp.dll

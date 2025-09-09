@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/service/file.service.ts"],
+  "sourcesContent": ["import { HttpClient } from '@angular/common/http';\nimport { Injectable } from '@angular/core';\n\n@Injectable({\n  providedIn: 'root'\n})\nexport class FileService {\n  private baseUrl = 'http://localhost:5000';\n\n  constructor(private http: HttpClient) {}\n\n  write(content: string) {\n    return this.http.post<{ message: string }>(`${this.baseUrl}/write`, { content });\n  }\n\n  read() {\n    return this.http.get<{ content: string }>(`${this.baseUrl}/read`);\n  }\n\n  delete() {\n    return this.http.delete<{ message: string }>(`${this.baseUrl}/delete`);\n  }\n\n  rename(newName: string) {\n    return this.http.post<{ message: string }>(`${this.baseUrl}/rename`, { newName });\n  }\n}\n"],
+  "mappings": ";;;;;;;;;;;;;;;IAMa;;;;;AANb;AACA;AAKO,IAAM,cAAN,MAAMA,aAAW;MAGF;MAFZ,UAAU;MAElB,YAAoB,MAAgB;AAAhB,aAAA,OAAA;MAAmB;MAEvC,MAAM,SAAe;AACnB,eAAO,KAAK,KAAK,KAA0B,GAAG,KAAK,OAAO,UAAU,EAAE,QAAO,CAAE;MACjF;MAEA,OAAI;AACF,eAAO,KAAK,KAAK,IAAyB,GAAG,KAAK,OAAO,OAAO;MAClE;MAEA,SAAM;AACJ,eAAO,KAAK,KAAK,OAA4B,GAAG,KAAK,OAAO,SAAS;MACvE;MAEA,OAAO,SAAe;AACpB,eAAO,KAAK,KAAK,KAA0B,GAAG,KAAK,OAAO,WAAW,EAAE,QAAO,CAAE;MAClF;;;;;AAnBW,kBAAW,WAAA;MAHvB,WAAW;QACV,YAAY;OACb;OACY,WAAW;;;",
+  "names": ["FileService"]
+}

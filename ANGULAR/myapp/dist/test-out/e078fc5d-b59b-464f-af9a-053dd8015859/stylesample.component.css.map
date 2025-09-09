@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/component/stylesample/stylesample.component.css"],
+  "sourcesContent": [".special-text {\n  color: green;\n  font-weight: bold;\n}\n\n.normal-text {\n  color: gray;\n}\n\n.highlight {\n  background-color: yellow;\n}"],
+  "mappings": ";AAAA,CAAC;AACC,SAAO;AACP,eAAa;AACf;AAEA,CAAC;AACC,SAAO;AACT;AAEA,CAAC;AACC,oBAAkB;AACpB;",
+  "names": []
+}

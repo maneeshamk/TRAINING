@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\bin\Debug\net9.0\CALCULATOR.exe
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\bin\Debug\net9.0\CALCULATOR.deps.json
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\bin\Debug\net9.0\CALCULATOR.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\bin\Debug\net9.0\CALCULATOR.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\bin\Debug\net9.0\CALCULATOR.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\refint\CALCULATOR.dll
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.pdb
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\CALCULATOR.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\wipro training\calculator\obj\Debug\net9.0\ref\CALCULATOR.dll
